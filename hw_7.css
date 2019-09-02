@@ -1,0 +1,100 @@
+@font-face {
+    font-family: "Inconsolata";
+    src: url("fonts/subset-Inconsolata-Regular.eot");
+    src: url("fonts/subset-Inconsolata-Regular.eot?#iefix") format("embedded-opentype"),
+        url("fonts/subset-Inconsolata-Regular.woff2") format("woff2"),
+        url("fonts/subset-Inconsolata-Regular.woff") format("woff"),
+        url("fonts/subset-Inconsolata-Regular.ttf") format("truetype"),
+        url("fonts/subset-Inconsolata-Regular.svg#Inconsolata-Regular") format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url("fonts/subset-PlayfairDisplay-Regular.eot");
+    src: url("fonts/subset-PlayfairDisplay-Regular.eot?#iefix") format("embedded-opentype"),
+        url("fonts/subset-PlayfairDisplay-Regular.woff2") format("woff2"),
+        url("fonts/subset-PlayfairDisplay-Regular.woff") format("woff"),
+        url("fonts/subset-PlayfairDisplay-Regular.ttf") format("truetype"),
+        url("subset-PlayfairDisplay-Regular.svg#PlayfairDisplay-Regular") format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Ubuntu";
+    src: url("fonts/subset-Ubuntu.eot");
+    src: url("fonts/subset-Ubuntu.eot?#iefix") format("embedded-opentype"),
+        url("fonts/subset-Ubuntu.woff2") format("woff2"),
+        url("fonts/subset-Ubuntu.woff") format("woff"),
+        url("fonts/subset-Ubuntu.ttf") format("truetype"),
+        url("fonts/subset-Ubuntu.svg#Ubuntu") format("svg");
+    font-weight: 300;
+    font-style: normal;
+}
+body {
+    font-family: "Playfair Display", serif;
+    background-color: #ffffff;
+    margin: 0;
+    font-weight: 400;
+}
+.start {
+    padding-left: 69px;
+    padding-top: 68px;
+    padding-right: 68px;
+}
+.minim0 {
+    font-family: "Inconsolata";
+    color: #030303;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+}
+.nav1 {
+    float: right;
+    padding-top: 7px;
+}
+.link {
+    color: #868686;
+    text-decoration: none;
+    font-size: 14px;
+    margin-right: 103px;
+    text-transform: uppercase;
+}
+.images {
+    background-image: url("images/image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 509px;
+    margin-left: 70px;
+    margin-top: 72px;
+    margin-right: 69px;
+}
+.text1 {
+    color: #c7c1b6;
+    font-family: "Ubuntu";
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-left: 151px;
+    margin-top: 99px;
+}
+.week {
+    color: #626262;
+    font-size: 30px;
+    margin-left: 150px;
+    margin-top: 28px;
+}
+.text2 {
+    color: #838383;
+    font-size: 14px;
+    margin-left: 149px;
+    margin-top: 34px;
+    margin-right: 158px;
+}
+.text3 {
+    color: #cac4ba;
+    font-family: "Ubuntu";
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-left: 151px;
+    margin-top: 52px;
+}
