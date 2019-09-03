@@ -40,7 +40,6 @@ body {
 .start {
     padding-left: 69px;
     padding-top: 68px;
-    padding-right: 68px;
 }
 .minim0 {
     font-family: "Inconsolata", serif;
@@ -57,7 +56,7 @@ body {
     color: #868686;
     text-decoration: none;
     font-size: 14px;
-    margin-right: 103px;
+    margin-right: 100px;
     text-transform: uppercase;
 }
 .images {
@@ -131,13 +130,7 @@ body {
 .fol {
     color: #212121;
     font-size: 14px;
-    margin-left: 641px;
-}
-.footer {
-    padding-left: 150px;
-    padding-top: 45px;
-    padding-bottom: 40px;
-    padding-right: 71px;
+    margin-left: 750px;
 }
 .facebook {
     margin-left: 21px;
@@ -147,4 +140,13 @@ body {
 }
 .instagram {
     margin-left: 18px;
+}
+.footer {
+    padding-left: 150px;
+    padding-top: 45px;
+    padding-bottom: 40px;
+    padding-right: 71px;
+}
+.nav2 {
+    float: right;
 }
