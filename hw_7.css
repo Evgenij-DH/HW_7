@@ -54,7 +54,7 @@ body {
 .nav1 {
     float: right;
 }
-.clearfix1 {
+.clearfix {
     clear: both;
 }
 .header .link {
@@ -118,39 +118,44 @@ body {
     margin-right: 451px;
     margin-top: 77px;
 }
-.terms {
-    color: #393939;
-    font-size: 14px;
-}
-.priv {
-    color: #242424;
-    font-size: 14px;
-    margin-left: 17px;
-}
-.fol {
-    color: #212121;
-    font-size: 14px;
-    margin-left: 641px;
-}
 .footer {
     background-color: #f0f0f0;
-    padding-left: 80px;
+    padding-left: 150px;
     padding-top: 40px;
     padding-bottom: 45px;
     padding-right: 71px;
     margin-top: 90px;
     margin-bottom: 500px;
 }
-.nav2 {
-    float: right;
-}
-.clearfix2 {
-    clear: both;
-}
 .nav_icon {
     display: inline-block;
     vertical-align: top;
-    margin-left: 24px;
+}
+.terms {
+    color: #333333;
+    font-size: 14px;
+    text-decoration: none;
+}
+.priv {
+    color: #383838;
+    font-size: 14px;
+    text-decoration: none;
+    margin-left: 17px;
+}
+.fol {
+    color: #393939;
+    font-size: 14px;
+    text-decoration: none;
+    margin-left: 641px;
+}
+.facebook {
+    margin-left: 21px;
+}
+.twitter {
+    margin-left: 17px;
+}
+.instagram {
+    margin-left: 18px;
 }
 .container {
     max-width: 1070px;
